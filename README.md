@@ -1,6 +1,6 @@
 ## Components
 
-- `movie_analysis.py`: Python script containing the movie similarity analysis logic and Airflow DAG definitions.
+- `movie_analysis.py`: Python script containing the 1) ticker sentiment generator (basis articles) 2) movie similarity analysis logic and Airflow DAG definitions.
 - `run.sh`: Shell script for setting up the Airflow environment and running the DAG.
 
 ## Setup
