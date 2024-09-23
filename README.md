@@ -7,7 +7,7 @@
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/movie-similarity-analysis.git
+   git clone https://github.com/shivam01anand/scraper_submission.git
    cd movie-similarity-analysis
    ```
 
