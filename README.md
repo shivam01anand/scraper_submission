@@ -8,7 +8,7 @@
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/shivam01anand/scraper_submission.git
-   cd movie-similarity-analysis
+   cd scraper_submission
    ```
 
 2. **Make the shell script executable:**
